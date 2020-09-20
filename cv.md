@@ -1,5 +1,6 @@
-1. ## Denis Azaronak
+## Denis Azaronak##
 **Minsk, VIVA Belarus !**<br/><br/>
+**Minsk, VIVA BELARUS !**<br/><br/>
 2. Contact E-mail: **reddyoggy@gmail.com**<br/>
 3. <br/>
 4. I know the **basics** in JavaScript, CSS and HTML.<br/>
