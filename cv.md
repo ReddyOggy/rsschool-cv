@@ -1,6 +1,6 @@
 ## Denis Azaronak
 **Minsk, VIVA Belarus !**<br/><br/>
-2. Contact E-mail: **reddyoggy@gmail.com**<br/>
+2. Contact E-mail: **azarsamail@gmail.com**<br/>
 3. I WANT to improve my knowledge in JavaScript, CSS and HTML. I really like it.<br/>
 4. I know the **basics** in JavaScript, CSS and HTML.<br/>
 5. Code examples: NO, study.<br/>
